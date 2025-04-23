@@ -1,0 +1,1 @@
+export {default as CommonTab} from "./CommonTab.vue"
